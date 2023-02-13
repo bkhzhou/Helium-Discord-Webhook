@@ -27,3 +27,5 @@ const hotspot = ''  //Add your hotspot ID
 ```sh
 $ node main.js
 ```
+
+![image](https://user-images.githubusercontent.com/79166987/218474864-c071c6c8-7100-47b3-be32-3bf116c92b66.png)
